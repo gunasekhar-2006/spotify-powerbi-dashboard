@@ -1,19 +1,31 @@
-# Spotify Interactive Dashboard
+# Spotify Power BI Dashboard
 
 ## Overview
-This project focuses on building an interactive Spotify analytics dashboard using Power BI.
+This project focuses on building an interactive Spotify Analytics Dashboard using Power BI.
 
-## Features
+## Dashboard Features
 - KPI Cards
-- Genre Analysis
-- Artist Analysis
-- Scatter Plot Analysis
-- Interactive Filters
+- Genre Popularity Analysis
+- Artist Popularity Analysis
+- Danceability vs Popularity Scatter Plot
+- Interactive Filters and Slicers
+
+---
+
+# Dashboard Preview
+
+![Dashboard Screenshot](dashboard_screenshot.png)
+
+---
 
 ## Technologies Used
 - Power BI
-- Python
-- Pandas
+- Data Visualization
+- Business Intelligence
+- Spotify Dataset
 
-## Business Value
-The dashboard helps identify music trends, listener engagement patterns, and audio feature impacts on popularity.
+## Objective
+Generate business intelligence insights from Spotify songs data using interactive visual analytics.
+
+## Author
+ROKKAM GUNA SEKHAR
